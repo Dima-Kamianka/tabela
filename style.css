@@ -1,0 +1,13 @@
+table {
+border-collapse: collapse;
+border-style: double;
+border: 10px solid black 
+
+
+}
+th,td {
+margin: 10px;
+padding: 50px;
+
+
+}
